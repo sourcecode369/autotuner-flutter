@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "initializer_list": "cpp",
+    "vector": "cpp",
+    "xstring": "cpp",
+    "xutility": "cpp",
+    "xlocale": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
+}
